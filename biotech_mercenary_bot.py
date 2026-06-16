@@ -79,4 +79,4 @@ if __name__ == "__main__":
     
     # Run the "patent-pending" integration pipeline logic
     print("Executing decision fusion pipeline...")
-    # print(bot.fusion_integration_module(mock_prices, mock_headline))
+    print(bot.fusion_integration_module(mock_prices, mock_headline))
